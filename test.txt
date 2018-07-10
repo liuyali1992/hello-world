@@ -5,3 +5,6 @@ my first repository
 =======
 change remote branch test
 >>>>>>> f78a6dd8dcb70c35418ba1709455b5985e203cbe
+
+
+test helper store
