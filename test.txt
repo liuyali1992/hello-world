@@ -10,3 +10,5 @@ change remote branch test
 test helper store
 test helper store is ok?
 
+test "Anded" status
+
